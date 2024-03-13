@@ -40,4 +40,4 @@ Open the terminal or command prompt in the folder where you have downloaded the 
 
 Run the following command:
 
-    python3 app.py
+    python3 main.py
